@@ -19,7 +19,7 @@ setup(
         ],
     },
     author='jaseph36',
-    author_email='jaseph.github@gmail.comm,
+    author_email='jaseph.github@gmail.com',
     description='A tool to find Ethereum private keys from verified messages on Etherscan.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
