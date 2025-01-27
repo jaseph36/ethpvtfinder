@@ -1,0 +1,8 @@
+# config.yaml
+etherscan_base_url: "https://etherscan.io/messages/verified"
+possibles_file: "possibles.txt"
+final_file: "final.txt"
+last_processed_page_file: "last_processed_page.txt"
+very_verbose_file: "debug.txt"
+delay_between_requests: .4
+max_retries: 3
